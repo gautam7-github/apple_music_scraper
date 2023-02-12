@@ -55,18 +55,25 @@ def collectData(driver):
     driver.close()
     return coll
 
+# https://music.apple.com/kw/playlist/top-100-india/pl.c0e98d2423e54c39b3df955c24df3cc5
 
-def dumpData(coll):
+
+def dumpData(URL, coll):
     print("Dump Started")
     jsonData = json.dumps(coll)
     df = pd.read_json(jsonData)
     df = df.T
+    df['GYD_PLAYLIST_NAME'] = URL.split("playlist/")[-1].split("/")[0]
     df['GYD_TIMESTAMP'] = datetime.datetime.now()
+    df = df.assign(artists=df['Artist(s)'].str.split(',')).explode('artists')
+    df['Artist(s)'] = df['artists']
+    df = df.drop("artists", axis=1)
     engine = create_engine("sqlite:///database/song.db", echo=False)
     df.to_sql(
         'songs', con=engine, index=False,
         index_label='Rank', if_exists='replace'
     )
+
     path = "./database/songs.csv"
     df.to_csv("./database/songs.csv", index=False,)
     return path
@@ -76,7 +83,7 @@ def startCrawler(URL):
     print("Starting Scraper")
     driver = startDriver(URL)
     data = collectData(driver)
-    outputPath = dumpData(data)
-    dsName = "APPLE_MUSIC_TOP_100_DOMO"
+    outputPath = dumpData(URL, data)
+    dsName = "APPLE_MUSIC_DOMO"
     domo_pusher.pushDataToDOMO(
-        dsName=dsName, dsPath=outputPath, mode='replace')
+        dsName=dsName, dsPath=outputPath, mode='append')

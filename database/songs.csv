@@ -1,101 +1,129 @@
-Rank,Song,Artist(s),Album,GYD_TIMESTAMP
-1,"Apna Bana Le (From ""Bhediya"")","Arijit Singh,Sachin-Jigar,Amitabh Bhattacharya","Apna Bana Le (From ""Bhediya"") - Single",2023-02-12 11:37:34.927516
-2,52 Bars,"Karan Aujla,Ikky",Four You - EP,2023-02-12 11:37:34.927516
-3,"Besharam Rang (From ""Pathaan"")","Vishal & Shekhar,Shilpa Rao,Caralisa Monteiro,Vishal Dadlani,Shekhar Ravjiani,","Besharam Rang (From ""Pathaan"") - Single",2023-02-12 11:37:34.927516
-4,Maan Meri Jaan,King,Champagne Talk,2023-02-12 11:37:34.927516
-5,Jhoome Jo Pathaan,"Vishal & Shekhar,Arijit Singh,Sukriti Kakar,Vishal Dadlani,Shekhar Ravjiani",Pathaan (Original Motion Picture Soundtrack),2023-02-12 11:37:34.927516
-6,Kahani Suno 2.0,Kaifi Khalil,Kahani Suno 2.0 - Single,2023-02-12 11:37:34.927516
-7,Calm Down,"Rema,Selena Gomez",Calm Down - Single,2023-02-12 11:37:34.927516
-8,Dil Nu,"AP Dhillon,Shinda Kahlon",Two Hearts Never Break the Same - EP,2023-02-12 11:37:34.927516
-9,Take It Easy,"Karan Aujla,Ikky",Four You - EP,2023-02-12 11:37:34.927516
-10,Summer High,AP Dhillon,Summer High - Single,2023-02-12 11:37:34.927516
-11,"Kesariya (From ""Brahmastra"")","Pritam,Arijit Singh,Amitabh Bhattacharya","Kesariya (From ""Brahmastra"") - Single",2023-02-12 11:37:34.927516
-12,Mi Amor,"Sharn,40K,THE Paul",Mi Amor - Single,2023-02-12 11:37:34.927516
-13,Ranjha,"Jasleen Royal,B. Praak",Shershaah (Original Motion Picture Soundtrack),2023-02-12 11:37:34.927516
-14,Players (feat. Devika Badyal),"Badshah,Karan Aujla",Players (feat. Devika Badyal) - Single,2023-02-12 11:37:34.927516
-15,"Tere Pyaar Mein (From ""Tu Jhoothi Main Makkaar"")","Pritam,Arijit Singh,Nikhita Gandhi,Amitabh Bhattacharya","Tere Pyaar Mein (From ""Tu Jhoothi Main Makkaar"") - Single",2023-02-12 11:37:34.927516
-16,Moon Rise,"Guru Randhawa,Sanjoy",Man of the Moon,2023-02-12 11:37:34.927516
-17,Flowers,Miley Cyrus,Endless Summer Vacation,2023-02-12 11:37:34.927516
-18,Baller,Shubh,Baller - Single,2023-02-12 11:37:34.927516
-19,Wo Noor,AP Dhillon,Two Hearts Never Break the Same - EP,2023-02-12 11:37:34.927516
-20,On Top,Karan Aujla,On Top - Single,2023-02-12 11:37:34.927516
-21,Daku (feat. Inderpal Moga),Chani Nattan,Daku (feat. Inderpal Moga) - Single,2023-02-12 11:37:34.927516
-22,Rubicon Drill,"Laddi Chahal,Parmish Verma,Gurlej Akhtar",Forever - EP,2023-02-12 11:37:34.927516
-23,Her,Shubh,Her - Single,2023-02-12 11:37:34.927516
-24,No Love,Shubh,No Love - Single,2023-02-12 11:37:34.927516
-25,Excuses,"AP Dhillon,Gurinder Gill,Intense",Excuses - Single,2023-02-12 11:37:34.927516
-26,Bones,Imagine Dragons,Bones - Single,2023-02-12 11:37:34.927516
-27,Yeah Naah,"Karan Aujla,Ikky",Four You - EP,2023-02-12 11:37:34.927516
-28,Starboy (feat. Daft Punk),The Weeknd,The Highlights (Deluxe Video Album),2023-02-12 11:37:34.927516
-29,Malang Sajna,"Sachet Tandon,Parampara Tandon",Malang Sajna - Single,2023-02-12 11:37:34.927516
-30,"KALESHI CHORI (feat. RAGA, HARJAS, DG, DARK HORSE & VIRTUALAF)",DG IMMORTALS,"KALESHI CHORI (feat. RAGA, HARJAS, DG, DARK HORSE & VIRTUALAF) - Single",2023-02-12 11:37:34.927516
-31,Tu AakeDekhle,King,The Carnival,2023-02-12 11:37:34.927516
-32,Raataan Lambiyan,"Tanishk Bagchi,Jubin Nautiyal,Asees Kaur",Shershaah (Original Motion Picture Soundtrack),2023-02-12 11:37:34.927516
-33,Pasoori,"Shae Gill,Ali Sethi",Pasoori - Single,2023-02-12 11:37:34.927516
-34,Creepin',"Metro Boomin,The Weeknd,21 Savage",HEROES & VILLAINS,2023-02-12 11:37:34.927516
-35,Unholy,"Sam Smith,Kim Petras",Unholy - Single,2023-02-12 11:37:34.927516
-36,White Brown Black,"Avvy Sra,Karan Aujla",White Brown Black - Single,2023-02-12 11:37:34.927516
-37,Insane,"AP Dhillon,Shinda Kahlon,Gurinder Gill,Gminxr",Insane - Single,2023-02-12 11:37:34.927516
-38,Levels (feat. Sunny Malton),Sidhu Moose Wala,Levels (feat. Sunny Malton) - Single,2023-02-12 11:37:34.927516
-39,"Manike (From ""Thank God"")","Yohani,Jubin Nautiyal,Tanishk Bagchi,Surya Ragunnathan,Surya Ragunaathan,,,,","Manike (From ""Thank God"") - Single",2023-02-12 11:37:34.927516
-40,Blinding Lights,The Weeknd,Blinding Lights - Single,2023-02-12 11:37:34.927516
-41,Never Fold (feat. Sunny Malton),Sidhu Moose Wala,No Name - EP,2023-02-12 11:37:34.927516
-42,Fallin Apart,"Karan Aujla,Ikky",Four You - EP,2023-02-12 11:37:34.927516
-43,"Hawayein (From ""Jab Harry Met Sejal"")","Pritam,Arijit Singh","Hawayein (From ""Jab Harry Met Sejal"") - Single",2023-02-12 11:37:34.927516
-44,"Maiyya Mainu (From ""Jersey"")","Sachet-Parampara,Sachet Tandon","Maiyya Mainu (From ""Jersey"") - Single",2023-02-12 11:37:34.927516
-45,Kabira,"Pritam,Tochi Raina,Rekha Bhardwaj",Yeh Jawaani Hai Deewani (Original Motion Picture Soundtrack),2023-02-12 11:37:34.927516
-46,Tujhe Kitna Chahne Lage,Arijit Singh,Kabir Singh (Original Motion Picture Soundtrack),2023-02-12 11:37:34.927516
-47,Lemonade,Diljit Dosanjh,Drive Thru - EP,2023-02-12 11:37:34.927516
-48,As It Was,Harry Styles,Harry's House,2023-02-12 11:37:34.927516
-49,We Rollin,Shubh,We Rollin - Single,2023-02-12 11:37:34.927516
-50,SPAIN,"Jassa Dhillon,thiarajxtt",VIBIN,2023-02-12 11:37:34.927516
-51,Safar,"Juss,Mixsingh",Safar - Single,2023-02-12 11:37:34.927516
-52,Todh,"Prince Narula,Munawar Faruqui",Todh - Single,2023-02-12 11:37:34.927516
-53,The Last Ride,Sidhu Moose Wala,The Last Ride - Single,2023-02-12 11:37:34.927516
-54,Lover,Diljit Dosanjh,MoonChild Era,2023-02-12 11:37:34.927516
-55,Gaddi Red Challenger,Babbulicious,Gaddi Red Challenger - Single,2023-02-12 11:37:34.927516
-56,Spaceship,"AP Dhillon,Shinda Kahlon,Gminxr",Hidden Gems - EP,2023-02-12 11:37:34.927516
-57,Toxic,"AP Dhillon,Intense",Toxic - Single,2023-02-12 11:37:34.927516
-58,Under the Influence,Chris Brown,Indigo (Extended),2023-02-12 11:37:34.927516
-59,People,Libianca,People - Single,2023-02-12 11:37:34.927516
-60,295,Sidhu Moose Wala,Moosetape,2023-02-12 11:37:34.927516
-61,Agar Tum Saath Ho,"Alka Yagnik,Arijit Singh",Tamasha (Original Motion Picture Soundtrack),2023-02-12 11:37:34.927516
-62,Elevated,Shubh,Elevated - Single,2023-02-12 11:37:34.927516
-63,Dilbar,"Tech Panda,Kenzani,Rusha & Blizza",Dilbar - Single,2023-02-12 11:37:34.927516
-64,"Deva Deva (From ""Brahmastra"")","Pritam,Arijit Singh,Amitabh Bhattacharya,Jonita Gandhi","Deva Deva (From ""Brahmastra"") - Single",2023-02-12 11:37:34.927516
-65,Heat Waves,Glass Animals,Dreamland,2023-02-12 11:37:34.927516
-66,Baarishein,Anuv Jain,Baarishein - Single,2023-02-12 11:37:34.927516
-67,Escapism.,"RAYE,070 Shake",Escapism. / The Thrill Is Gone. - Single,2023-02-12 11:37:34.927516
-68,Kill Bill,SZA,SOS,2023-02-12 11:37:34.927516
-69,Brown Munde,"AP Dhillon,Gminxr,Gurinder Gill,Shinda Kahlon",Brown Munde - Single,2023-02-12 11:37:34.927516
-70,Ghodey Pe Sawaar,"Amit Trivedi,Amitabh Bhattacharya,Sireesha Bhagavatula",Qala (Music From The Netflix Film),2023-02-12 11:37:34.927516
-71,Jimikki Ponnu,"Anirudh,Jonita Gandhi,Vivek",Varisu (Original Motion Picture Soundtrack),2023-02-12 11:37:34.927516
-72,Perfect,Ed Sheeran,÷ (Deluxe),2023-02-12 11:37:34.927516
-73,Die For You,The Weeknd,Starboy,2023-02-12 11:37:34.927516
-74,"Jehda Nasha (From ""An Action Hero"")","Tanishk Bagchi,Amar Jalal,Faridkot,Yohani,Harjot Kaur,IP Singh,","Jehda Nasha (From ""An Action Hero"") - Single",2023-02-12 11:37:34.927516
-75,Tum Se Hi,"Pritam,Mohit Chauhan",Jab We Met (Original Motion Picture Soundtrack),2023-02-12 11:37:34.927516
-76,Gul,Anuv Jain,Gul - Single,2023-02-12 11:37:34.927516
-77,"Doobey (From ""Gehraiyaan"")","OAFF,Savera,Lothika,Kausar Munir","Doobey (From ""Gehraiyaan"") - Single",2023-02-12 11:37:34.927516
-78,Tera Yaar Hoon Main,Arijit Singh,Sonu Ke Titu Ki Sweety (Original Motion Picture Soundtrack),2023-02-12 11:37:34.927516
-79,Mockingbird,Eminem,Encore (Deluxe Version),2023-02-12 11:37:34.927516
-80,These Days (feat. Bohemia),Sidhu Moose Wala,Moosetape,2023-02-12 11:37:34.927516
-81,Baazigar,"DIVINE,Armani White",Gunehgar,2023-02-12 11:37:34.927516
-82,So High,Sidhu Moose Wala,So High - Single,2023-02-12 11:37:34.927516
-83,I Ain't Worried,OneRepublic,Top Gun: Maverick (Music from the Motion Picture),2023-02-12 11:37:34.927516
-84,Saada Pyaar,"AP Dhillon,Gurinder Gill,Money Musik",Saada Pyaar - Single,2023-02-12 11:37:34.927516
-85,Tum Tum,"SS Thaman,Sri Vardhini,Aditi Bhavaraju,Satya Yamini,Roshini JKV,",Tum Tum - Single,2023-02-12 11:37:34.927516
-86,Shauq,"Amit Trivedi,Varun Grover,Shahid Mallya,Sireesha Bhagavatula,Swanand Kirkire",Qala (Music From The Netflix Film),2023-02-12 11:37:34.927516
-87,Ek Din Pyaar (Tadipaar),MC Stan,Ek Din Pyaar (Tadipaar) - Single,2023-02-12 11:37:34.927516
-88,Pehli Nazar Mein,"Atif Aslam,Pritam",Race (Original Motion Picture Soundtrack),2023-02-12 11:37:34.927516
-89,If I Die,"Guri Lahoria,Devilo",If I Die - Single,2023-02-12 11:37:34.927516
-90,"Ranjithame (From ""Varisu"")","Thalapathy Vijay,M.M. Manasi,SS Thaman,Vivek","Ranjithame (From ""Varisu"") - Single",2023-02-12 11:37:34.927516
-91,Phir Se Ud Chala,Mohit Chauhan,Rockstar (Original Motion Picture Soundtrack),2023-02-12 11:37:34.927516
-92,"Shayad (From ""Love Aaj Kal"")","Pritam,Arijit Singh","Shayad (From ""Love Aaj Kal"") - Single",2023-02-12 11:37:34.927516
-93,"Thee Thalapathy (From ""Varisu"")",Silambarasan TR,"Thee Thalapathy (From ""Varisu"") - Single",2023-02-12 11:37:34.927516
-94,Channa Mereya,"Pritam,Arijit Singh",Ae Dil Hai Mushkil (Original Motion Picture Soundtrack),2023-02-12 11:37:34.927516
-95,Akhiyaan,Mitraz,Akhiyaan - Single,2023-02-12 11:37:34.927516
-96,Khuda Jaane,"Vishal & Shekhar,KK,Shilpa Rao",Bachna Ae Haseeno (Original Soundtrack),2023-02-12 11:37:34.927516
-97,Rich Flex,"Drake,21 Savage",Her Loss,2023-02-12 11:37:34.927516
-98,Tera Ban Jaunga,"Akhil Sachdeva,Tulsi Kumar",Kabir Singh (Original Motion Picture Soundtrack),2023-02-12 11:37:34.927516
-99,Desires,"AP Dhillon,Gurinder Gill",Hidden Gems - EP,2023-02-12 11:37:34.927516
-100,Dil Diyan Gallan,"Vishal & Shekhar,Atif Aslam",Tiger Zinda Hai (Original Motion Picture Soundtrack),2023-02-12 11:37:34.927516
+Rank,Song,Artist(s),Album,GYD_PLAYLIST_NAME,GYD_TIMESTAMP
+1,Last Night,Morgan Wallen,One Thing At A Time,top-100-usa,2023-02-12 15:23:28.025519
+2,Kill Bill,SZA,SOS,top-100-usa,2023-02-12 15:23:28.025519
+3,Flowers,Miley Cyrus,Endless Summer Vacation,top-100-usa,2023-02-12 15:23:28.025519
+4,Love You Anyway,Luke Combs,Gettin' Old,top-100-usa,2023-02-12 15:23:28.025519
+5,Snooze,SZA,SOS,top-100-usa,2023-02-12 15:23:28.025519
+6,Boy's a liar Pt. 2,PinkPantheress,Boy's a liar Pt. 2 - Single,top-100-usa,2023-02-12 15:23:28.025519
+6,Boy's a liar Pt. 2,Ice Spice,Boy's a liar Pt. 2 - Single,top-100-usa,2023-02-12 15:23:28.025519
+7,Rich Flex,Drake,Her Loss,top-100-usa,2023-02-12 15:23:28.025519
+7,Rich Flex,21 Savage,Her Loss,top-100-usa,2023-02-12 15:23:28.025519
+8,Creepin',Metro Boomin,HEROES & VILLAINS,top-100-usa,2023-02-12 15:23:28.025519
+8,Creepin',The Weeknd,HEROES & VILLAINS,top-100-usa,2023-02-12 15:23:28.025519
+8,Creepin',21 Savage,HEROES & VILLAINS,top-100-usa,2023-02-12 15:23:28.025519
+9,Freestyle,Lil Baby,Too Hard,top-100-usa,2023-02-12 15:23:28.025519
+10,Just Wanna Rock,Lil Uzi Vert,Just Wanna Rock - Single,top-100-usa,2023-02-12 15:23:28.025519
+11,Superhero (Heroes & Villains),Metro Boomin,HEROES & VILLAINS,top-100-usa,2023-02-12 15:23:28.025519
+11,Superhero (Heroes & Villains),Future,HEROES & VILLAINS,top-100-usa,2023-02-12 15:23:28.025519
+11,Superhero (Heroes & Villains),Chris Brown,HEROES & VILLAINS,top-100-usa,2023-02-12 15:23:28.025519
+12,You Proof,Morgan Wallen,You Proof - Single,top-100-usa,2023-02-12 15:23:28.025519
+13,WAIT FOR U (feat. Drake & Tems),Future,I NEVER LIKED YOU,top-100-usa,2023-02-12 15:23:28.025519
+14,One Thing At A Time,Morgan Wallen,One Thing At A Time (Sampler) - Single,top-100-usa,2023-02-12 15:23:28.025519
+15,Sure Thing,Miguel,All I Want Is You,top-100-usa,2023-02-12 15:23:28.025519
+16,Under the Influence,Chris Brown,Indigo (Extended),top-100-usa,2023-02-12 15:23:28.025519
+17,Die For You,The Weeknd,Starboy,top-100-usa,2023-02-12 15:23:28.025519
+18,I Wrote The Book,Morgan Wallen,One Thing At A Time,top-100-usa,2023-02-12 15:23:28.025519
+19,Bebe Dame,Fuerza Regida,Bebe Dame - Single,top-100-usa,2023-02-12 15:23:28.025519
+19,Bebe Dame,Grupo Frontera,Bebe Dame - Single,top-100-usa,2023-02-12 15:23:28.025519
+20,Spin Bout U,Drake,Her Loss,top-100-usa,2023-02-12 15:23:28.025519
+20,Spin Bout U,21 Savage,Her Loss,top-100-usa,2023-02-12 15:23:28.025519
+21,Thought You Should Know,Morgan Wallen,Thought You Should Know - Single,top-100-usa,2023-02-12 15:23:28.025519
+22,Dawns (feat. Maggie Rogers),Zach Bryan,Dawns (feat. Maggie Rogers) - Single,top-100-usa,2023-02-12 15:23:28.025519
+23,Everything I Love,Morgan Wallen,One Thing At A Time,top-100-usa,2023-02-12 15:23:28.025519
+24,Tití Me Preguntó,Bad Bunny,Un Verano Sin Ti,top-100-usa,2023-02-12 15:23:28.025519
+25,Shirt,SZA,Shirt - Single,top-100-usa,2023-02-12 15:23:28.025519
+26,Unholy,Sam Smith,Unholy - Single,top-100-usa,2023-02-12 15:23:28.025519
+26,Unholy,Kim Petras,Unholy - Single,top-100-usa,2023-02-12 15:23:28.025519
+27,In A Minute,Lil Baby,In A Minute - Single,top-100-usa,2023-02-12 15:23:28.025519
+28,Low,SZA,SOS,top-100-usa,2023-02-12 15:23:28.025519
+29,Nobody Gets Me,SZA,SOS,top-100-usa,2023-02-12 15:23:28.025519
+30,HOTEL LOBBY (Unc & Phew),Quavo,HOTEL LOBBY (Unc & Phew) - Single,top-100-usa,2023-02-12 15:23:28.025519
+30,HOTEL LOBBY (Unc & Phew),Takeoff,HOTEL LOBBY (Unc & Phew) - Single,top-100-usa,2023-02-12 15:23:28.025519
+31,Jimmy Cooks (feat. 21 Savage),Drake,"Honestly, Nevermind",top-100-usa,2023-02-12 15:23:28.025519
+32,California Breeze,Lil Baby,It's Only Me,top-100-usa,2023-02-12 15:23:28.025519
+33,CUFF IT,Beyoncé,RENAISSANCE,top-100-usa,2023-02-12 15:23:28.025519
+34,Anti-Hero,Taylor Swift,Midnights (3am Edition),top-100-usa,2023-02-12 15:23:28.025519
+35,PUFFIN ON ZOOTIEZ,Future,I NEVER LIKED YOU,top-100-usa,2023-02-12 15:23:28.025519
+36,Jumbotron Shit Poppin,Drake,Her Loss,top-100-usa,2023-02-12 15:23:28.025519
+37,Bad Habit,Steve Lacy,Gemini Rights,top-100-usa,2023-02-12 15:23:28.025519
+38,Good Days,SZA,Good Days - Single,top-100-usa,2023-02-12 15:23:28.025519
+39,Love Language,SZA,SOS,top-100-usa,2023-02-12 15:23:28.025519
+40,Karma,Summer Walker,Last Day of Summer,top-100-usa,2023-02-12 15:23:28.025519
+41,As It Was,Harry Styles,Harry's House,top-100-usa,2023-02-12 15:23:28.025519
+42,Me Porto Bonito,Bad Bunny,Un Verano Sin Ti,top-100-usa,2023-02-12 15:23:28.025519
+42,Me Porto Bonito,Chencho Corleone,Un Verano Sin Ti,top-100-usa,2023-02-12 15:23:28.025519
+43,Blind,SZA,SOS,top-100-usa,2023-02-12 15:23:28.025519
+44,Tomorrow 2,GloRilla,Tomorrow 2 - Single,top-100-usa,2023-02-12 15:23:28.025519
+44,Tomorrow 2,Cardi B,Tomorrow 2 - Single,top-100-usa,2023-02-12 15:23:28.025519
+45,Sum 2 Prove,Lil Baby,Sum 2 Prove - Single,top-100-usa,2023-02-12 15:23:28.025519
+46,The Kind of Love We Make,Luke Combs,Growin' Up,top-100-usa,2023-02-12 15:23:28.025519
+47,CUFF IT (WETTER REMIX),Beyoncé,CUFF IT - Single,top-100-usa,2023-02-12 15:23:28.025519
+48,Tennessee Fan,Morgan Wallen,One Thing At A Time (Sampler) - Single,top-100-usa,2023-02-12 15:23:28.025519
+49,Mask Off,Future,FUTURE,top-100-usa,2023-02-12 15:23:28.025519
+50,Wasted On You,Morgan Wallen,Dangerous: The Double Album,top-100-usa,2023-02-12 15:23:28.025519
+51,Something in the Orange,Zach Bryan,Something in the Orange - Single,top-100-usa,2023-02-12 15:23:28.025519
+52,In Ha Mood,Ice Spice,In Ha Mood - Single,top-100-usa,2023-02-12 15:23:28.025519
+53,I Hate U,SZA,I Hate U - Single,top-100-usa,2023-02-12 15:23:28.025519
+54,Chasin' You,Morgan Wallen,If I Know Me,top-100-usa,2023-02-12 15:23:28.025519
+55,AMG,Natanael Cano,AMG - Single,top-100-usa,2023-02-12 15:23:28.025519
+55,AMG,Peso Pluma,AMG - Single,top-100-usa,2023-02-12 15:23:28.025519
+55,AMG,Gabito Ballesteros,AMG - Single,top-100-usa,2023-02-12 15:23:28.025519
+56,Growin' Up and Gettin' Old,Luke Combs,Gettin' Old,top-100-usa,2023-02-12 15:23:28.025519
+57,Players,Coi Leray,Players - Single,top-100-usa,2023-02-12 15:23:28.025519
+58,Escapism.,RAYE,Escapism. / The Thrill Is Gone. - Single,top-100-usa,2023-02-12 15:23:28.025519
+58,Escapism.,070 Shake,Escapism. / The Thrill Is Gone. - Single,top-100-usa,2023-02-12 15:23:28.025519
+59,Moscow Mule,Bad Bunny,Un Verano Sin Ti,top-100-usa,2023-02-12 15:23:28.025519
+60,ALL MINE,Brent Faiyaz,WASTELAND,top-100-usa,2023-02-12 15:23:28.025519
+61,golden hour,JVKE,this is what ____ feels like (Vol. 1-4),top-100-usa,2023-02-12 15:23:28.025519
+62,Ghost in the Machine (feat. Phoebe Bridgers),SZA,SOS,top-100-usa,2023-02-12 15:23:28.025519
+63,PRC,Peso Pluma,PRC - Single,top-100-usa,2023-02-12 15:23:28.025519
+63,PRC,Natanael Cano,PRC - Single,top-100-usa,2023-02-12 15:23:28.025519
+64,Wants and Needs (feat. Lil Baby),Drake,Scary Hours 2,top-100-usa,2023-02-12 15:23:28.025519
+65,Open Arms (feat. Travis Scott),SZA,SOS,top-100-usa,2023-02-12 15:23:28.025519
+66,Low Down,Lil Baby,My Turn (Deluxe),top-100-usa,2023-02-12 15:23:28.025519
+67,Knife Talk (feat. 21 Savage & Project Pat),Drake,Certified Lover Boy,top-100-usa,2023-02-12 15:23:28.025519
+68,Drankin N Smokin,Future,Pluto x Baby Pluto,top-100-usa,2023-02-12 15:23:28.025519
+68,Drankin N Smokin,Lil Uzi Vert,Pluto x Baby Pluto,top-100-usa,2023-02-12 15:23:28.025519
+69,Seek & Destroy,SZA,SOS,top-100-usa,2023-02-12 15:23:28.025519
+70,Life Is Good (feat. Drake),Future,Life Is Good (feat. Drake) - Single,top-100-usa,2023-02-12 15:23:28.025519
+71,Nonstop,Drake,Scorpion,top-100-usa,2023-02-12 15:23:28.025519
+72,Rock and A Hard Place,Bailey Zimmerman,Leave The Light On - EP (Apple Music Up Next Film Edition),top-100-usa,2023-02-12 15:23:28.025519
+73,No Role Modelz,J. Cole,2014 Forest Hills Drive,top-100-usa,2023-02-12 15:23:28.025519
+74,Never Hating,Lil Baby,It's Only Me,top-100-usa,2023-02-12 15:23:28.025519
+74,Never Hating,Young Thug,It's Only Me,top-100-usa,2023-02-12 15:23:28.025519
+75,On BS,Drake,Her Loss,top-100-usa,2023-02-12 15:23:28.025519
+75,On BS,21 Savage,Her Loss,top-100-usa,2023-02-12 15:23:28.025519
+76,March Madness,Future,56 Nights,top-100-usa,2023-02-12 15:23:28.025519
+77,No Guidance (feat. Drake),Chris Brown,Indigo (Extended),top-100-usa,2023-02-12 15:23:28.025519
+78,No Flockin,Kodak Black,No Flockin - Single,top-100-usa,2023-02-12 15:23:28.025519
+79,Kacey Talk,YoungBoy Never Broke Again,Top,top-100-usa,2023-02-12 15:23:28.025519
+80,Low Life (feat. The Weeknd),Future,EVOL,top-100-usa,2023-02-12 15:23:28.025519
+81,Power Trip (feat. Miguel),J. Cole,Born Sinner (Deluxe Version),top-100-usa,2023-02-12 15:23:28.025519
+82,Going Bad (feat. Drake),Meek Mill,Championships,top-100-usa,2023-02-12 15:23:28.025519
+83,Lavender Haze,Taylor Swift,Midnights (3am Edition),top-100-usa,2023-02-12 15:23:28.025519
+84,"Shakira: Bzrp Music Sessions, Vol. 53",Bizarrap,"Shakira: Bzrp Music Sessions, Vol. 53 - Single",top-100-usa,2023-02-12 15:23:28.025519
+84,"Shakira: Bzrp Music Sessions, Vol. 53",Shakira,"Shakira: Bzrp Music Sessions, Vol. 53 - Single",top-100-usa,2023-02-12 15:23:28.025519
+85,X SI VOLVEMOS,KAROL G,X SI VOLVEMOS - Single,top-100-usa,2023-02-12 15:23:28.025519
+85,X SI VOLVEMOS,Romeo Santos,X SI VOLVEMOS - Single,top-100-usa,2023-02-12 15:23:28.025519
+86,Efecto,Bad Bunny,Un Verano Sin Ti,top-100-usa,2023-02-12 15:23:28.025519
+87,Super Gremlin,Kodak Black,Sniper Gang Presents Syko Bob & Snapkatt: Nightmare Babies,top-100-usa,2023-02-12 15:23:28.025519
+88,For The Night (feat. Lil Baby & DaBaby),Pop Smoke,Shoot For The Stars Aim For The Moon,top-100-usa,2023-02-12 15:23:28.025519
+89,Major Distribution,Drake,Her Loss,top-100-usa,2023-02-12 15:23:28.025519
+89,Major Distribution,21 Savage,Her Loss,top-100-usa,2023-02-12 15:23:28.025519
+90,Umbrella (feat. JAY Z),Rihanna,Good Girl Gone Bad: Reloaded,top-100-usa,2023-02-12 15:23:28.025519
+91,Que Vuelvas,Carin Leon,Que Vuelvas - Single,top-100-usa,2023-02-12 15:23:28.025519
+91,Que Vuelvas,Grupo Frontera,Que Vuelvas - Single,top-100-usa,2023-02-12 15:23:28.025519
+92,Forever,Lil Baby,It's Only Me,top-100-usa,2023-02-12 15:23:28.025519
+92,Forever,Fridayy,It's Only Me,top-100-usa,2023-02-12 15:23:28.025519
+93,God's Plan,Drake,Scorpion,top-100-usa,2023-02-12 15:23:28.025519
+94,Days That End In Why,Morgan Wallen,One Thing At A Time (Sampler) - Single,top-100-usa,2023-02-12 15:23:28.025519
+95,Circo Loco,Drake,Her Loss,top-100-usa,2023-02-12 15:23:28.025519
+95,Circo Loco,21 Savage,Her Loss,top-100-usa,2023-02-12 15:23:28.025519
+96,Used (feat. Don Toliver),SZA,SOS,top-100-usa,2023-02-12 15:23:28.025519
+97,I'm Good (Blue),David Guetta,I'm Good (Blue) - Single,top-100-usa,2023-02-12 15:23:28.025519
+97,I'm Good (Blue),Bebe Rexha,I'm Good (Blue) - Single,top-100-usa,2023-02-12 15:23:28.025519
+98,Pussy & Millions (feat. Travis Scott),Drake,Her Loss,top-100-usa,2023-02-12 15:23:28.025519
+98,Pussy & Millions (feat. Travis Scott),21 Savage,Her Loss,top-100-usa,2023-02-12 15:23:28.025519
+99,Calm Down,Rema,Calm Down - Single,top-100-usa,2023-02-12 15:23:28.025519
+99,Calm Down,Selena Gomez,Calm Down - Single,top-100-usa,2023-02-12 15:23:28.025519
+100,Beautiful Crazy,Luke Combs,This One’s for You Too (Deluxe Edition),top-100-usa,2023-02-12 15:23:28.025519
